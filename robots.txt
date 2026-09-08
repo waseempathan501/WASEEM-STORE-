@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waseempathan501.github.io/sitemap.xml
+Sitemap: https://waseem-hacker-store.vercel.app/sitemap.xml
