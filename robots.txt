@@ -1,0 +1,5 @@
+# WASEEM STORE
+User-agent: *
+Allow: /
+
+Sitemap: https://waseempathan501.github.io/sitemap.xml
